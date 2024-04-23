@@ -1,0 +1,79 @@
+<html>
+
+<head>
+  <title>BCA MORNING SHIFT</title>
+  <style>
+    .container {
+      background-color: white;
+      height: 1100;
+      width: 800;
+      background-position: center;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1 style="color: green;">
+      <center><b><u>RESUME</u></b></center>
+    </h1>
+    <hr color="blue" size="5">
+    <br>
+    <img src="C:\Users\RAWAT\Downloads\photo.jpeg" alt="photo" width="120" height="130"><br>
+    <h3 style="background-color:Lightgray;"><b><u>PERSONAL INFORMATION</u></b></h3>
+    <p>NAME: Sanjana Rawat</p>
+    <p>D.O.B: 12-05-2004</p>
+    <p>EMAIL ID: <a href=mailto:rawatsanjana393@gmail.com>rawatsanjana393@gmail.com</a></p>
+    <p>LINKEDIN: <a href="https://www.linkedin.com/in/sanjana-rawat-503927246">sanjana-rawat</a></p>
+    <p>PHONE NO: 8368538895</p>
+
+    <h3 style="background-color:Lightgray;"><B><u>EDUCATION QUALIFICATION</u></B></h3>
+    <table border="2">
+      <tr>
+        <th>CLASS</th>
+        <th>PERCENTAGE</th>
+        <th>YEAR OF PASSING</th>
+        <th>BOARD</th>
+      </tr>
+      <tr>
+        <td>10th</td>
+        <td>89%</td>
+        <td>2020</td>
+        <td>CBSE</td>
+      </tr>
+      <tr>
+        <td>12th</td>
+        <td>80%</td>
+        <td>2022</td>
+        <td>CBSE</td>
+      </tr>
+    </table>
+
+    <h3 style="background-color:Lightgray;"><b><u>INTERESTS</u></b></h3>
+    <ul>
+      <li>Drawing</li>
+      <li>Programming</li>
+      <li>Computer Science</li>
+    </ul>
+    <h3 style="background-color:Lightgray;"><b><u>SKILLS</u></b></h3>
+    <ul>
+      <li>Web Development</li>
+      <li>Coding and Programming</li>
+      <li>Database Management</li>
+    </ul>
+
+    <h3 style="background-color:Lightgray;"><b><u>STRENGTH</u></b></h3>
+    <ul>
+      <li>Creativity</li>
+      <li>Self Motivation</li>
+      <li>Quick Learning to new things</li>
+    </ul>
+
+    <h3 style="background-color:Lightgray;"><b><u>DECLARATION</u></b></h3>
+    <p>I DO HEREBY DECLARE THAT ABOVE INFORMATION IS TRUE TO BEST OF MY KNOWLEDGE.<BR>
+      THIS IS COMPUTER GENERATED SO IT DOESN'T NEED SIGNATURE.</p>
+  </div>
+</body>
+
+</html>
